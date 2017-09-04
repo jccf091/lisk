@@ -5,6 +5,7 @@ require('./delegates');
 require('./loader');
 require('./multisignatures');
 require('./peers');
+require('./peer.transactions.multisignatures');
 require('./transactions');
 require('./transport/transport');
 require('./transport/transport.blocks');
